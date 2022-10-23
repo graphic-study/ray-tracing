@@ -59,9 +59,7 @@ class Buffer
 			// 레퍼런스로 받기
 			void setVertices(const std::vector<Vertex> &new_vertices)
 			{
-				std::cout << (long)&new_vertices[0] << std::endl;
 				this->vertices = new_vertices;
-				std::cout << (long)&(this->vertices[0]) << std::endl;
 				glBufferData(GL_ARRAY_BUFFER, sizeof(Vertex) * this->vertices.size(), this->vertices.data(), GL_STATIC_DRAW);
 			}
 
