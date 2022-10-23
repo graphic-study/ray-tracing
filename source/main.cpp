@@ -49,9 +49,7 @@ int main_process()
 	
 	buffer_instance.setIndices(new_indices);
 	buffer_instance.setVertices(new_vertices);
-	std::cout << (long)&new_vertices[0] << std::endl;
 				
-
 	// 렌더링 루프
 	while (!glfwWindowShouldClose(window))
 	{

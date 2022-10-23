@@ -3,8 +3,7 @@
 
 glfw-3.3.8/examples/CMakeFiles/particles.dir/__/deps/getopt.c.o
  /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/getopt.c
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/getopt.c
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/getopt.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/getopt.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/string.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_types.h
@@ -42,7 +41,6 @@ glfw-3.3.8/examples/CMakeFiles/particles.dir/__/deps/getopt.c.o
 
 glfw-3.3.8/examples/CMakeFiles/particles.dir/__/deps/glad_gl.c.o
  /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/glad_gl.c
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/glad_gl.c
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/stdio.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_stdio.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/cdefs.h
@@ -123,13 +121,12 @@ glfw-3.3.8/examples/CMakeFiles/particles.dir/__/deps/glad_gl.c.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/strings.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/secure/_strings.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/secure/_string.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/glad/gl.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/glad/khrplatform.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/glad/gl.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/glad/khrplatform.h
 
 glfw-3.3.8/examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o
  /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/tinycthread.c
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/tinycthread.c
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/tinycthread.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/tinycthread.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_types.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types.h
@@ -218,7 +215,6 @@ glfw-3.3.8/examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o
 
 glfw-3.3.8/examples/CMakeFiles/particles.dir/particles.c.o
  /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/examples/particles.c
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/examples/particles.c
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/stdlib.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/Availability.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityVersions.h
@@ -304,7 +300,7 @@ glfw-3.3.8/examples/CMakeFiles/particles.dir/particles.c.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_clock_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_time_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_timespec.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/tinycthread.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/tinycthread.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_fd_def.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_suseconds_t.h
@@ -328,10 +324,10 @@ glfw-3.3.8/examples/CMakeFiles/particles.dir/particles.c.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_pthread/_pthread_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/pthread/qos.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/qos.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/getopt.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/linmath.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/glad/gl.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/deps/glad/khrplatform.h
- /Users/yeonseong/openGL/opengl_wrapper/glfw-3.3.8/include/GLFW/glfw3.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/getopt.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/linmath.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/glad/gl.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/deps/glad/khrplatform.h
+ /Users/yeonseong/graphics/ray-tracing/glfw-3.3.8/include/GLFW/glfw3.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h
 
